@@ -1,4 +1,4 @@
-## Desafio Operações
+## Desafio de Operações
 
 A Stone é uma Instituição de Pagamentos autorizada a funcionar pelo Bacen nas modalidades Credenciador e Emissor de Moeda Eletrônica. Além disso, possui uma Conta de Liquidação no Bacen e acesso ao STR.
 
